@@ -15,7 +15,7 @@ module.exports = {
 
   // The redirectUri is the URL that the user will be redirected to after they have authenticated with Microsoft Graph API.
   // Likewise, you would not need to change redirectUri if you are using your personal Microsoft account with OneDrive International.
-  redirectUri: 'https://od.naraci.top',
+  redirectUri: 'http://localhost',
   
   //'http://localhost',
   
