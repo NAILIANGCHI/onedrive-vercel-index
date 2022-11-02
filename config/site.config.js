@@ -7,7 +7,7 @@ module.exports = {
   // Make sure this is exactly the same as the email address you use to sign into your Microsoft account.
   // You can also put this in your Vercel's environment variable 'NEXT_PUBLIC_USER_PRINCIPLE_NAME' if you worry about
   // your email being exposed in public.
-  userPrincipalName: process.env.NEXT_PUBLIC_USER_PRINCIPLE_NAME || 'od.naraci.top',
+  userPrincipalName: process.env.NEXT_PUBLIC_USER_PRINCIPLE_NAME || 'qn@5hv2gw.onmicrosoft.com',
   //qn@5hv2gw.onmicrosoft.com
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
@@ -43,7 +43,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/源码备份', '/Bugle','壁纸库/Restricted'],
+  protectedRoutes: ['/源码备份', '/Bugle','/壁纸库/Restricted'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: '2905821826@qq.com',
