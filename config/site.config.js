@@ -46,7 +46,7 @@ module.exports = {
   protectedRoutes: ['/源码备份', '/Bugle','/壁纸库/Restricted'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: '2905821826@qq.com',
+  email: 'mailto:spencer.2905821826@qq.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
